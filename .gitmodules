@@ -1,0 +1,3 @@
+[submodule "GIQA"]
+	path = GIQA
+	url = https://github.com/cientgu/GIQA.git
