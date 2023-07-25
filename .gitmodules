@@ -1,3 +1,6 @@
 [submodule "GIQA"]
 	path = GIQA
 	url = https://github.com/cientgu/GIQA.git
+[submodule "src"]
+	path = src
+	url = https://github.com/dogoulis/gan-prediction.git
